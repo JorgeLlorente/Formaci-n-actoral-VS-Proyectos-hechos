@@ -1,0 +1,195 @@
+,actor,ciudad,nombres,nº formaciones
+0,daniel albaladejo,['Murcia'],,9
+1,daniel albaladejo,[],,9
+2,daniel albaladejo,[],Vicente Fuentes,9
+3,daniel albaladejo,[],Will Keen,9
+4,daniel albaladejo,[],Francisco Torres,9
+4,daniel albaladejo,[],Teatro Contemporáneo,9
+5,daniel albaladejo,[],Norman Taylor,9
+5,daniel albaladejo,[],Expresión Dramática,9
+6,daniel albaladejo,[],Antón Valén,9
+7,enrique asenjo,[],Dramaturgia Teatral,13
+7,enrique asenjo,[],Sanchís Sinisterra,13
+8,enrique asenjo,[],Mariano Barroso,13
+9,enrique asenjo,[],Raquel Pérez,13
+10,enrique asenjo,[],Dramaturgia Teatral,13
+10,enrique asenjo,[],Mauricio Kartún,13
+11,enrique asenjo,[],Dramaturgia Teatral,13
+11,enrique asenjo,[],Eduardo Recabarren,13
+12,enrique asenjo,[],Dramaturgia Teatral,13
+12,enrique asenjo,[],Bernardo Kappa,13
+13,enrique asenjo,[],Adriano Urissevich,13
+14,enrique asenjo,['Rota'],Cristina Rota,13
+15,enrique asenjo,[],,13
+16,jacobo camarena,[],Javier Cifrián,15
+17,jacobo camarena,[],,15
+18,jacobo camarena,[],,15
+19,jacobo camarena,[],Salvador Calvo,15
+20,jacobo camarena,[],Carlos Sedes,15
+21,jacobo camarena,[],Tonucha Vidal,15
+22,jacobo camarena,[],Montxo Armendáriz,15
+23,jacobo camarena,[],Gracia Querejeta,15
+24,jacobo camarena,[],Déborah Borqué,15
+25,jacobo camarena,[],Inma Torrente,15
+26,jacobo camarena,[],Jesús Font,15
+27,jacobo camarena,[],Marga Rodríguez,15
+28,jacobo camarena,[],Andrés Cuenca,15
+29,jacobo camarena,[],Antonio Recio,15
+30,jacobo camarena,[],Paula Cámara,15
+31,pedro carvalho,[],Casting Director,8
+31,pedro carvalho,[],Luci Lenox,8
+32,pedro carvalho,[],Casting Director,8
+32,pedro carvalho,[],Manuel Puro,8
+33,pedro carvalho,['Madrid'],Andrea Mizes,8
+33,pedro carvalho,['Madrid'],Estudio Corazza,8
+34,pedro carvalho,[],,8
+35,pedro carvalho,[],,8
+36,jason day,[],Buenos Aires,6
+37,jason day,[],Aquila Morong,6
+37,jason day,[],Los Ángeles,6
+38,jason day,[],Deb Aquila,6
+38,jason day,[],Ron Burrus,6
+39,jason day,[],Julie Adams,6
+40,prince ezeanyim,[],Escuela Superior,20
+40,prince ezeanyim,[],Arte Dramático,20
+41,prince ezeanyim,[],Estudio Corazza,20
+42,prince ezeanyim,[],Andoni Larrabeiti,20
+43,prince ezeanyim,[],Fernando Becerra,20
+43,prince ezeanyim,[],Ernesto Arias,20
+44,prince ezeanyim,[],Darío Valtancoli,20
+45,prince ezeanyim,[],La Joven,20
+45,prince ezeanyim,[],Andoni Larrabeiti,20
+46,prince ezeanyim,[],La Joven,20
+46,prince ezeanyim,[],Marco Magoa,20
+46,prince ezeanyim,[],Andoni Larrabeiti,20
+47,prince ezeanyim,[],La Joven,20
+47,prince ezeanyim,[],Armando Buika,20
+47,prince ezeanyim,[],Andoni Larrabeiti,20
+47,prince ezeanyim,[],Claudia Coelho,20
+48,prince ezeanyim,[],Andoni Larrabeiti,20
+49,prince ezeanyim,[],Pablo Ibarluzea,20
+50,prince ezeanyim,[],,20
+51,prince ezeanyim,[],,20
+52,carlos gorbe,[],Arte Dramático,10
+53,carlos gorbe,[],Seminario Meisner,10
+53,carlos gorbe,[],Yolanda Vega,10
+54,carlos gorbe,[],Mar Navarro,10
+55,carlos gorbe,[],,10
+56,carlos gorbe,[],Estudio Dramático,10
+56,carlos gorbe,[],Pablo Corral,10
+57,carlos gorbe,[],Eva Zapico,10
+58,carlos gorbe,['Valencia'],Creatividad Musical,10
+58,carlos gorbe,['Valencia'],Creatividad Interpretativa,10
+59,jorge kent,[],La Palabra,20
+59,jorge kent,[],Ernesto Arias,20
+59,jorge kent,[],Vicente Fuentes,20
+60,jorge kent,[],La Transversalidad,20
+60,jorge kent,[],Santiago Sánchez,20
+61,jorge kent,[],Creación Sonora,20
+61,jorge kent,[],Nacho Bilbao,20
+62,jorge kent,[],Dramaturgia Actoral,20
+62,jorge kent,[],Carles Alfaro,20
+63,jorge kent,[],Creación Escénica,20
+63,jorge kent,[],Alfredo Sanzol,20
+64,jorge kent,[],Ernesto Caballero,20
+65,jorge kent,[],Isabel Úbeda,20
+66,jorge kent,[],Antonio Malonda,20
+67,jorge kent,[],Pedro Víctor,20
+68,jorge kent,[],Will Keen,20
+69,jorge kent,[],Derek Chapman,20
+70,jorge kent,[],,20
+71,jorge kent,[],John Breen,20
+72,jorge kent,[],,20
+73,marina bellati,[],Estudio Nora,20
+74,marina bellati,[],Matías Feldman,20
+74,marina bellati,[],Santiago Gobernori,20
+75,marina bellati,[],Instituto Eter,20
+76,marina bellati,[],Héctor Sañudo,20
+77,marina bellati,[],Estudio Nora,20
+78,marina bellati,[],,20
+79,marina bellati,[],Andrea Di,20
+80,marina bellati,['Barcelona'],Arthur Schnitzler,20
+80,marina bellati,['Barcelona'],Antonio Simón,20
+80,marina bellati,['Barcelona'],El Timbal,20
+80,marina bellati,['Barcelona'],Teatro Escuela,20
+81,marina bellati,[],Sportivo Teatral,20
+81,marina bellati,[],Ricardo Bartís,20
+82,marina bellati,['Barcelona'],Manuel Lillo,20
+83,marina bellati,['Barcelona'],Nancy Tuñón,20
+83,marina bellati,['Barcelona'],Teatro Estudio,20
+84,marina bellati,['Salvador'],Universidad Del,20
+85,marina bellati,[],Estudio Nora,20
+86,marina bellati,[],,20
+87,ana bokesa,[],Ben Naylor,7
+88,ana bokesa,[],Raquel Pérez,7
+89,ana bokesa,[],La Joven,7
+90,ana bokesa,[],Marisa Lull,7
+90,ana bokesa,[],Javier Montero,7
+90,ana bokesa,[],Teatro Español,7
+91,ana bokesa,[],,7
+92,andrea dueso,[],Lautaro Perotti,17
+93,andrea dueso,[],Salvador Calvo,17
+94,andrea dueso,[],Joven Compañía,17
+95,andrea dueso,[],Curso Will,17
+95,andrea dueso,[],Wiliam Shakespeare,17
+96,andrea dueso,[],Máster Profesional,17
+96,andrea dueso,[],Estudio Interactivo,17
+97,andrea dueso,[],Fernando Piernas,17
+98,andrea dueso,[],Eva Egido,17
+99,andrea dueso,[],Juanma Navas,17
+100,andrea dueso,[],Ángel Plana,17
+101,andrea dueso,[],Bel Alzamora,17
+102,andrea dueso,[],Escuela Interactivo,17
+103,andrea dueso,[],De Interpretación,17
+103,andrea dueso,[],Bárbara Fritsche,17
+103,andrea dueso,[],Dani Díez,17
+104,andrea dueso,[],,17
+105,natalia huarte,['Madrid'],,15
+106,natalia huarte,[],,15
+107,natalia huarte,['New York'],Michael Chekhov,15
+107,natalia huarte,['New York'],Acting Studio,15
+107,natalia huarte,['New York'],New York,15
+108,natalia huarte,[],Vicente Fuentes,15
+109,natalia huarte,[],Roberta Carreri,15
+109,natalia huarte,[],Odín Teatret,15
+110,natalia huarte,[],Will Keen,15
+111,natalia huarte,[],Alfredo Sanzol,15
+111,natalia huarte,[],Andrés Lima,15
+112,natalia huarte,[],Carlota Ferrer,15
+113,natalia huarte,[],,15
+114,natalia huarte,[],Fernanda Orazi,15
+115,natalia huarte,[],,15
+116,marina varem,[],Claudio Tolcachir,34
+117,marina varem,[],Vanessa Rasero,34
+118,marina varem,['Málaga'],Arte Dramático,34
+118,marina varem,['Málaga'],Teatro Musical,34
+119,marina varem,[],Alquimia Versal,34
+119,marina varem,[],Carlos Aladro,34
+119,marina varem,[],Inma Nieto,34
+119,marina varem,[],Ernesto Arias,34
+120,marina varem,[],,34
+121,marina varem,[],Lautaro Perotti,34
+122,marina varem,[],Francisco Conde,34
+123,marina varem,[],Kurro González,34
+124,marina varem,[],Teatro Físico,34
+124,marina varem,[],Javier Herrero,34
+124,marina varem,[],Fernando Sánchez,34
+125,marina varem,['Santos'],Carlos Therón,34
+125,marina varem,['Santos'],Manu Gómez,34
+125,marina varem,['Santos'],Pedro Collantes,34
+125,marina varem,['Santos'],Javier Marco,34
+125,marina varem,['Santos'],David Martín,34
+125,marina varem,['Santos'],Celia Rico,34
+125,marina varem,['Santos'],Álvaro Gago,34
+125,marina varem,['Santos'],Paula Cons,34
+125,marina varem,['Santos'],Jose Luis,34
+125,marina varem,['Santos'],Carmen Utrilla,34
+126,marina varem,[],Alberto Cerrada,34
+126,marina varem,[],Sergio Urbano,34
+127,marina varem,[],Danza Clásica,34
+127,marina varem,[],Método Vaganova,34
+128,marina varem,[],Monográfico Danza,34
+129,marina varem,[],Chorus Line,34
+129,marina varem,[],Bayork Lee,34
+130,marina varem,[],Caterina Chisesi,34
+130,marina varem,[],Klauss Stauffer,34
